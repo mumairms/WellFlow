@@ -1,0 +1,16 @@
+{
+  "name": "WellFlow",
+  "short_name": "WellFlow",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#6f42c1",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "assets/images/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
